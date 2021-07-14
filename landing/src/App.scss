@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  margin-top: 40px;
+}
+
+h1:first-of-type {
+  margin-top: 50px;
+}
+
+h1:last-of-type {
+  font-size: 42px;
+}
